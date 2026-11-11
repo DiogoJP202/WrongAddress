@@ -1,0 +1,10 @@
+# Arquivos de trava do Roblox Studio
+*.rbxl.lock
+*.rbxlx.lock
+
+# Cópias datadas do place (backup local, não versionado)
+place/backups/
+
+# Sistema
+Thumbs.db
+desktop.ini
