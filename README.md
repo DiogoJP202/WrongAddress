@@ -1,7 +1,8 @@
 # WRONG ADDRESS — Documentação de pré-produção
 
 > Jogo original para Roblox. Documentação de trabalho, não produto pronto.  
-> Estado: **pré-produção / P0 não iniciado**. Revisão: 2026-11-11.  
+> O protótipo local inclui contratos, garagem, pinturas cosméticas e métricas de sessão. Estado e testes atuais em [STATUS.md](STATUS.md).
+>
 > Responsável pelo produto: desenvolvedor solo. Ferramenta de execução: Roblox Studio + Claude Code com MCP já configurado.
 
 ## A ideia em uma frase

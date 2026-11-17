@@ -17,6 +17,7 @@
 | 13-MCP-WORKFLOW.md | Passos para Claude Code com Studio MCP |
 | 14-ACEITE.md | Casos de teste, critérios de conclusão e evidências |
 | 15-PLANO-P0.md | Auditoria do ambiente e plano de implementação do P0 (aprovado em 2026-11-11) |
+| 16-LANCAMENTO.md | Métricas, miniaturas e verificações externas de lançamento |
 
 ## Classificação de requisitos
 
